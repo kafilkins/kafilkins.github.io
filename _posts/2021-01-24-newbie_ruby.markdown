@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Newbie => Ruby"
-date:       2021-01-24 19:45:33 +0000
+date:       2021-01-24 14:45:33 -0500
 permalink:  newbie_ruby
 ---
 
